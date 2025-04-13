@@ -1,0 +1,78 @@
+[
+  {
+    "id": "R1A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "consumerId": "C1A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "consumerName": "Alex Rodriguez",
+    "meatType": "Beef",
+    "quantity": 25,
+    "unit": "pounds",
+    "budget": 200,
+    "deliveryOption": "either",
+    "preferredTime": "2025-04-20T10:00:00Z",
+    "location": "San Francisco, CA",
+    "coordinates": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "additionalInfo": "Looking for a mix of steaks, ground beef, and roasts.",
+    "isOpen": true,
+    "responses": []
+  },
+  {
+    "id": "R2A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "consumerId": "C2A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "consumerName": "Sarah Chen",
+    "meatType": "Chicken",
+    "quantity": 15,
+    "unit": "pounds",
+    "budget": 100,
+    "deliveryOption": "pickup",
+    "preferredTime": "2025-04-15T14:00:00Z",
+    "location": "Oakland, CA",
+    "coordinates": {
+      "latitude": 37.8044,
+      "longitude": -122.2711
+    },
+    "additionalInfo": "Prefer whole chickens if possible.",
+    "isOpen": true,
+    "responses": []
+  },
+  {
+    "id": "R3A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "consumerId": "C3A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "consumerName": "Michael Wong",
+    "meatType": "Lamb",
+    "quantity": 10,
+    "unit": "pounds",
+    "budget": 150,
+    "deliveryOption": "delivery",
+    "preferredTime": "2025-04-25T16:00:00Z",
+    "location": "Berkeley, CA",
+    "coordinates": {
+      "latitude": 37.8715,
+      "longitude": -122.2730
+    },
+    "additionalInfo": "Looking for whole lamb or various cuts.",
+    "isOpen": true,
+    "responses": []
+  },
+  {
+    "id": "R4A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "consumerId": "C4A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "consumerName": "Jennifer Miller",
+    "meatType": "Pork",
+    "quantity": 20,
+    "unit": "pounds",
+    "budget": 180,
+    "deliveryOption": "either",
+    "preferredTime": "2025-04-18T11:00:00Z",
+    "location": "Palo Alto, CA",
+    "coordinates": {
+      "latitude": 37.4419,
+      "longitude": -122.1430
+    },
+    "additionalInfo": "Looking for a variety of cuts. Need bacon and sausage.",
+    "isOpen": true,
+    "responses": []
+  }
+] 

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "name": "Green Pastures Farm",
+    "ownerId": "F1A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "location": "Greenville, CA",
+    "coordinates": {
+      "latitude": 37.773972,
+      "longitude": -122.431297
+    },
+    "description": "Family-owned farm focused on sustainable practices. We raise grass-fed beef, pastured pork, and free-range chickens without antibiotics or hormones.",
+    "meatOfferings": [
+      {
+        "id": "M1A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+        "type": "Beef",
+        "price": 8.99,
+        "unit": "per pound",
+        "description": "Grass-fed and finished beef, dry-aged for 21 days.",
+        "available": true
+      },
+      {
+        "id": "M2A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+        "type": "Pork",
+        "price": 7.50,
+        "unit": "per pound",
+        "description": "Heritage breed pork raised on pasture and non-GMO feed.",
+        "available": true
+      }
+    ],
+    "rating": 4.8,
+    "reviewCount": 24,
+    "deliveryAvailable": true,
+    "pickupAvailable": true,
+    "imageName": "farm"
+  },
+  {
+    "id": "2A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "name": "Hillside Poultry Farm",
+    "ownerId": "F2A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "location": "Riverview, CA",
+    "coordinates": {
+      "latitude": 37.733972,
+      "longitude": -122.391297
+    },
+    "description": "Specializing in pasture-raised poultry. Our birds are moved to fresh grass daily and have access to natural forage plus organic feed.",
+    "meatOfferings": [
+      {
+        "id": "M3A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+        "type": "Chicken",
+        "price": 6.99,
+        "unit": "per pound",
+        "description": "Pasture-raised broilers, processed on farm.",
+        "available": true
+      },
+      {
+        "id": "M4A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+        "type": "Turkey",
+        "price": 9.50,
+        "unit": "per pound",
+        "description": "Heritage breed turkeys, available seasonally.",
+        "available": true
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 18,
+    "deliveryAvailable": false,
+    "pickupAvailable": true,
+    "imageName": "farm"
+  },
+  {
+    "id": "3A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "name": "Rocky Mountain Meats",
+    "ownerId": "F3A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "location": "Boulder Creek, CA",
+    "coordinates": {
+      "latitude": 37.753972,
+      "longitude": -122.411297
+    },
+    "description": "High-altitude ranch specializing in grass-fed beef with unique flavor profiles due to diverse mountain pastures.",
+    "meatOfferings": [
+      {
+        "id": "M5A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+        "type": "Beef",
+        "price": 9.99,
+        "unit": "per pound",
+        "description": "Premium mountain-raised beef with exceptional marbling.",
+        "available": true
+      },
+      {
+        "id": "M6A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+        "type": "Lamb",
+        "price": 12.50,
+        "unit": "per pound",
+        "description": "Grass-fed lamb raised on mountain pastures.",
+        "available": true
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "deliveryAvailable": true,
+    "pickupAvailable": true,
+    "imageName": "farm"
+  },
+  {
+    "id": "4A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "name": "Valley View Farm",
+    "ownerId": "F4A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "location": "Sonoma Valley, CA",
+    "coordinates": {
+      "latitude": 37.713972,
+      "longitude": -122.481297
+    },
+    "description": "Fourth-generation farm in the heart of wine country. We use regenerative farming practices to produce the highest quality meats.",
+    "meatOfferings": [
+      {
+        "id": "M7A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+        "type": "Beef",
+        "price": 10.99,
+        "unit": "per pound",
+        "description": "Wine-country beef, finished on spent grape pomace for unique flavor.",
+        "available": true
+      },
+      {
+        "id": "M8A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+        "type": "Duck",
+        "price": 14.50,
+        "unit": "per pound",
+        "description": "Free-range duck raised alongside our vineyard.",
+        "available": true
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 22,
+    "deliveryAvailable": true,
+    "pickupAvailable": true,
+    "imageName": "farm"
+  }
+] 

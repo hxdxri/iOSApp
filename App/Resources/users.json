@@ -1,0 +1,82 @@
+[
+  {
+    "id": "F1A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "email": "john@greenpastures.com",
+    "name": "John Smith",
+    "userType": "Farmer",
+    "location": "Greenville, CA",
+    "phone": "555-123-4567",
+    "bio": "Third-generation family farm raising grass-fed beef and pastured pork since 1952.",
+    "profileImageName": "person.circle"
+  },
+  {
+    "id": "F2A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "email": "mary@hillsidefarm.com",
+    "name": "Mary Johnson",
+    "userType": "Farmer",
+    "location": "Riverview, CA",
+    "phone": "555-987-6543",
+    "bio": "Sustainable farm specializing in heritage breed chickens and turkey.",
+    "profileImageName": "person.circle"
+  },
+  {
+    "id": "F3A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "email": "dave@rockymountain.com",
+    "name": "Dave Wilson",
+    "userType": "Farmer",
+    "location": "Boulder Creek, CA",
+    "phone": "555-456-7890",
+    "bio": "Mountain rancher focused on raising premium grass-fed beef and lamb.",
+    "profileImageName": "person.circle"
+  },
+  {
+    "id": "F4A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "email": "sophia@valleyview.com",
+    "name": "Sophia Garcia",
+    "userType": "Farmer",
+    "location": "Sonoma Valley, CA",
+    "phone": "555-222-3333",
+    "bio": "Fourth-generation farmer integrating sustainable practices with wine country traditions.",
+    "profileImageName": "person.circle"
+  },
+  {
+    "id": "C1A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "email": "alex@example.com",
+    "name": "Alex Rodriguez",
+    "userType": "Consumer",
+    "location": "San Francisco, CA",
+    "phone": "555-234-5678",
+    "bio": "Food enthusiast looking for high-quality, locally raised meat.",
+    "profileImageName": "person.circle"
+  },
+  {
+    "id": "C2A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "email": "sarah@example.com",
+    "name": "Sarah Chen",
+    "userType": "Consumer",
+    "location": "Oakland, CA",
+    "phone": "555-876-5432",
+    "bio": "Health-conscious parent looking to buy in bulk for my family.",
+    "profileImageName": "person.circle"
+  },
+  {
+    "id": "C3A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "email": "michael@example.com",
+    "name": "Michael Wong",
+    "userType": "Consumer",
+    "location": "Berkeley, CA",
+    "phone": "555-555-5555",
+    "bio": "Chef interested in sourcing directly from local farms.",
+    "profileImageName": "person.circle"
+  },
+  {
+    "id": "C4A2B3C4-5E6F-7A8B-9C0D-1E2F3A4B5C6D",
+    "email": "jennifer@example.com",
+    "name": "Jennifer Miller",
+    "userType": "Consumer",
+    "location": "Palo Alto, CA",
+    "phone": "555-111-2222",
+    "bio": "Organizer of a neighborhood meat CSA program.",
+    "profileImageName": "person.circle"
+  }
+] 
